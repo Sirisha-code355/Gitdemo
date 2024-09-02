@@ -7,6 +7,8 @@ public class Gitdemo {
 	System.out.println("Print 2");
 
 	System.out.println("Print 3");
+	System.out.println("Print 3");
+	System.out.println("Print 3");
 	}
 
 }
